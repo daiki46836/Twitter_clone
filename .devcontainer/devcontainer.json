@@ -1,0 +1,8 @@
+{
+	"name": "Twiter_clone_001",
+	"dockerFile": "../Dockerfile",
+	// リモート先のVS Codeにインストールする拡張機能
+	"extensions": [
+		"ms-python.python"
+	],
+}
